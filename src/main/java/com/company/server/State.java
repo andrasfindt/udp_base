@@ -1,0 +1,5 @@
+package com.company.server;
+
+public enum State {
+    UNINITIALIZED, INITIALIZING, INITIALIZED, STOPPING, STOPPED, STARTING_LISTENING, LISTENING, ERROR
+}

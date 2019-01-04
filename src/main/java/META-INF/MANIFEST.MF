@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: andrasfindt
+Class-Path: commons-collections4-4.2.jar guice-4.2.2.jar javax.inject-
+ 1.jar aopalliance-1.0.jar guava-25.1-android.jar jsr305-3.0.2.jar che
+ cker-compat-qual-2.0.0.jar error_prone_annotations-2.1.3.jar j2objc-a
+ nnotations-1.1.jar animal-sniffer-annotations-1.14.jar commons-lang-2
+ .1.jar plexus-utils-1.1.jar
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_172
+Main-Class: com.company.Main
